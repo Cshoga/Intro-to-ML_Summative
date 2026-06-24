@@ -177,26 +177,6 @@ Key observations:
 
 ---
 
-## Limitations
-
-* The dataset represents a specific educational context and may not generalize to all institutions.
-* Class imbalance may affect prediction performance.
-* Additional features such as attendance and engagement data could improve results.
-
----
-
-## Author
-
-**Celine Shoga**
-
-Bachelor of Software Engineering
-
-African Leadership University (ALU)
-
-Machine Learning Specialization
-
----
-
 ## Report Documentation
 
 
